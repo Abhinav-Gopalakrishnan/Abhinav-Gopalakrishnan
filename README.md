@@ -33,14 +33,14 @@
 ---
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavgopalakrishnan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgopalakrishnan&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Gopalakrishnan&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Gopalakrishnan&layout=compact&theme=tokyonight)  
 
 ---
 
 ### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav_Gopalakrishnan-blue?logo=linkedin)](https://www.linkedin.com/in/abhinav-gopalakrishnan/)  
-[![GitHub](https://img.shields.io/badge/GitHub-abhinavgopalakrishnan-black?logo=github)](https://github.com/abhinavgopalakrishnan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav-Gopalakrishnan-blue?logo=linkedin)](https://www.linkedin.com/in/abhinav-g/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Abhinav-Gopalakrishnan-black?logo=github)](https://github.com/Abhinav-Gopalakrishnan)  
 
 ---
 
