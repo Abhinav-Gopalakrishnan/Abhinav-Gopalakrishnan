@@ -9,7 +9,7 @@
 -  Passionate about **Cloud Computing** and **AI/ML**  
 -  Worked on projects in **C**, **Python**, and **Arduino** (Tinkercad)  
 -  Hackathon participant — currently working on **Document Analyzer & PDF Ranking System**  
--  Sports enthusiast — love **Cricket** 🏏 and a loyal **Real Madrid** fan ⚪  
+-  Sports enthusiast — love **Cricket** and a loyal **Real Madrid** fan  
 
 ---
 
@@ -44,4 +44,4 @@ Computer Vision |  AI/ML |  Data Analysis |  IoT Projects | Systems Programming
 
 ---
 
-💡 *"Dream big, build bigger — code your way to the future."*
+*"Dream big, build bigger — code your way to the future."*
