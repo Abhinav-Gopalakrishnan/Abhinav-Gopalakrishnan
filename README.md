@@ -27,7 +27,7 @@ Computer Vision |  AI/ML |  Data Analysis |  IoT Projects | Systems Programming
 
 ###  Current Focus  
 -  **Building efficient data extraction systems from PDFs**  
--  Learning **Cloud Platforms** (AWS, Azure, GCP)  
+ 
 -  Improving **problem-solving skills** in DSA (Graphs, Trees, AVL)  
 
 ---
