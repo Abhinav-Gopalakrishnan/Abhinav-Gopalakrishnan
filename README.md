@@ -35,7 +35,7 @@
 ### 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Gopalakrishnan&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Gopalakrishnan&layout=compact&theme=tokyonight)  
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Abhinav-Gopalakrishnan&theme=tokyonight)
 ---
 
 ### 📫 Connect With Me  
