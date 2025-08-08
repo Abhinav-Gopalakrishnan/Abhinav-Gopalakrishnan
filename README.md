@@ -4,7 +4,7 @@
 
 ---
 
-### 🌟 About Me  
+### About Me  
 -  3rd-year **Computer Science and Engineering** student  
 -  Passionate about **Cloud Computing** and **AI/ML**  
 -  Worked on projects in **C**, **Python**, and **Arduino** (Tinkercad)  
