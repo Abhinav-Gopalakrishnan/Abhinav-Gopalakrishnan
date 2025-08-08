@@ -39,7 +39,7 @@
 ---
 
 ### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav-Gopalakrishnan-blue?logo=linkedin)](https://www.linkedin.com/in/abhinav-g/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav-Gopalakrishnan-blue?logo=linkedin)](https://www.linkedin.com/in/abhinav-g-486343295/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Abhinav-Gopalakrishnan-black?logo=github)](https://github.com/Abhinav-Gopalakrishnan)  
 
 ---
