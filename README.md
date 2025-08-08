@@ -6,7 +6,7 @@
 
 ### About Me  
 -  3rd-year **Computer Science and Engineering** student  
--  Passionate about **Cloud Computing** and **AI/ML**  
+-  Passionate about **AI/ML**  
 -  Worked on projects in **C**, **Python**, and **Arduino** (Tinkercad)  
 -  Hackathon participant — currently working on **Document Analyzer & PDF Ranking System**  
 -  Sports enthusiast — love **Cricket** and a loyal **Real Madrid** fan  
