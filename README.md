@@ -5,11 +5,11 @@
 ---
 
 ### About Me  
--  3rd-year **Computer Science and Engineering** student  
--  Passionate about **AI/ML**  
--  Worked on projects in **C**, **Python**, and **Arduino** (Tinkercad)  
--  Hackathon participant — currently working on **Document Analyzer & PDF Ranking System**  
--  Sports enthusiast — love **Cricket** and a loyal **Real Madrid** fan  
+- 3rd-year **Computer Science and Engineering** student  
+- Passionate about **AI/ML**  
+- Worked on projects in **C**, **Python**, and **Arduino** (Tinkercad)  
+- Hackathon participant — currently working on **Document Analyzer & PDF Ranking System**  
+- Sports enthusiast — love **Cricket** and a loyal **Real Madrid** fan  
 
 ---
 
@@ -26,9 +26,9 @@ Computer Vision |  AI/ML |  Data Analysis |  IoT Projects | Systems Programming
 ---
 
 ###  Current Focus  
--  **Building efficient data extraction systems from PDFs**  
+-  Building efficient data extraction systems from PDFs
  
--  Improving **problem-solving skills** in DSA (Graphs, Trees, AVL)  
+-  Improving problem-solving skills in DSA (Graphs, Trees, AVL)  
 
 ---
 
