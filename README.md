@@ -1,6 +1,6 @@
 # Hey there, I'm **Abhinav Gopalakrishnan**  
 
-**B.Tech CSE Student @ Amrita University** | **Future Entrepreneur** | **AI & ML Enthusiast**  
+**B.Tech CSE Student @ Amrita University** | **Future Entrepreneur** | **AI & ML Enthusiast**   
 
 ---
 
