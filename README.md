@@ -44,4 +44,4 @@ Computer Vision | AI/ML | Data Analysis | IoT Projects | Systems Programming
 
 ---
 
-*"Dream big, build bigger — code your way to the future."*
+*"Dream big , build bigger — code your way to the future."*
