@@ -6,7 +6,7 @@
 
 ## About Me  
 - 3rd-year **Computer Science & Engineering** student  
-- Passionate about **Artificial Intelligence** and **Machine Learning**  
+- Passionate about **Artificial Intelligence** and **Machine Learning**   
 - Built projects in **C**, **Python**, and **Arduino** (Tinkercad)  
 - Hackathon participant — currently developing a **Document Analyzer & PDF Ranking System**  
 - Sports enthusiast — cricket player and dedicated **Real Madrid** supporter  
